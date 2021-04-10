@@ -1,1 +1,1 @@
-test fork dari https://github.com/sgnd/wayshub-backend
+test fork dari repo https://github.com/sgnd/wayshub-backend
