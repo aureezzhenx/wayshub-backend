@@ -4,7 +4,6 @@
   "description": "API for WaysHub App",
   "main": "index.js",
   "scripts": {
-    "preinstall": "npm i nodemon -g",
     "start": "nodemon index.js",
     "client": "npm start --prefix ../client",
     "dev": "concurrently \"npm start\"  \"npm run client\""
