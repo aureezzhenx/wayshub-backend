@@ -1,5 +1,5 @@
 FROM node:14
-WORKDIR /usr/src/app
+WORKDIR /usr/src/appbackend
 COPY . .
 EXPOSE 5000
 CMD ["npm","start"]
